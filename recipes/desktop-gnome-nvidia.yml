@@ -15,9 +15,9 @@ modules:
   - type: os-release
     properties:
       NAME: Vandal-OS
-      VERSION: 42 (Based on Bazzite)
+#      VERSION: 42 (Based on Bazzite)
       ID: vandal_os
-      VERSION_ID: 42
+#      VERSION_ID: 42
       PRETTY_NAME: Vandal OS 42 for Nvidia (FROM Bazzite)
 
   - from-file: module-recipes/files.yml
